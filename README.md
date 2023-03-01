@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Shopping cart increment, decrement and page route screen
 
-This project is a starting point for a Flutter application.
+![shopping cart](https://user-images.githubusercontent.com/82708330/222076241-79c93901-fa8d-46b1-a43a-7dd230b6a6de.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Total Items Getting value increment + decrement from landing screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![total items](https://user-images.githubusercontent.com/82708330/222076795-3d83962c-50c1-4565-bb22-74245b7242fc.png)
